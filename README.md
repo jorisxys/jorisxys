@@ -5,6 +5,10 @@
 
 just keeping the process of learning and struggling fun and enjoying all that makes up computer science and in part the world. 
 
+Formal education: 
+ - high school: Science & Math 8h
+ - college: 2nd year professional bachelor Applied IT (Information Technology)
+
 <!---
 jorisxys/jorisxys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
