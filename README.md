@@ -9,11 +9,11 @@ Formal education:
  - high school: Science & Math 8h
  - college: 2nd year professional bachelor Applied IT (Information Technology)
 
-Intersts and passions
+Interests and passions
 - Science in particular physics and chemistry
 - psychology and finance/economics (behavioural economics in particular)
 - tv shows such as: Community, TBBT and animation movies with beautifull sountracks: Spiderverse, How To Train Your Dragon.
-- All kinds of food
+- fondness for ramen noodles
 
 <!---
 jorisxys/jorisxys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
